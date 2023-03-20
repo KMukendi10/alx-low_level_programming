@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - A program that will assign a random number to a variable when executed
- *
+ * main - print a random num
  * Return: 0
  */
 int main(void)
